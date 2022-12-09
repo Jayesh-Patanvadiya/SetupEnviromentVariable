@@ -1,16 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+using Newtonsoft.Json;
+using RestSharp;
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http;
-using System.Net;
-using System.Text.Json.Serialization;
 using System.Threading.Tasks;
-using System.Xml.Linq;
-using RestSharp;
-using Newtonsoft.Json;
 
 namespace EnvironmentVariables.Controllers
 {
@@ -24,21 +18,24 @@ namespace EnvironmentVariables.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<Root>> Get()
+        public async Task<IEnumerable<dynamic>> Get()
         {
-            RestClient _httpClient =  new RestClient();
+            //Http GET
+            RestClient _httpClient = new RestClient();
 
             var _baseUrl = Environment.GetEnvironmentVariable("URL A");
 
             var request = new RestRequest(_baseUrl, Method.Get);
             request.AddHeader("Content-Type", "application/json");
-            
+
+
+            //execute request GET
             var response = await _httpClient.ExecuteAsync(request);
 
-            var des = JsonConvert.DeserializeObject<List<Root>>(response.Content);
+            var des = JsonConvert.DeserializeObject<List<dynamic>>(response.Content);
 
 
-            //HttpPost
+            //Http Post
             var _baseUrl_B = Environment.GetEnvironmentVariable("URL B");
             var requestPost = new RestRequest(_baseUrl_B, Method.Post);
             requestPost.AddHeader("Content-Type", "application/json");
@@ -47,18 +44,17 @@ namespace EnvironmentVariables.Controllers
             requestPost.AddParameter("application/json", requestData, ParameterType.RequestBody);
 
 
-            //execute request
+            //execute request POST
             var response_URL_B = await _httpClient.ExecuteAsync(requestPost);
 
 
-            var deserializeData = JsonConvert.DeserializeObject<List<RootList>>(response_URL_B.Content);
-            return (IEnumerable<Root>)deserializeData;
+            var deserializeData = JsonConvert.DeserializeObject<IList<ArrayList>>(response_URL_B.Content);
+            return (IEnumerable<dynamic>)deserializeData;
 
-            //return (IEnumerable<Root>)deserializedBookingReq;
         }
 
         [HttpPost]
-        public async Task<IEnumerable<Root>> PostAsync(IEnumerable<Root> root)
+        public async Task<IEnumerable<dynamic>> PostAsync(IEnumerable<dynamic> root)
         {
             try
             {
@@ -75,8 +71,8 @@ namespace EnvironmentVariables.Controllers
                 //execute request
                 var response = await _httpClient.ExecuteAsync(request);
 
-                var deserializedBookingReq = JsonConvert.DeserializeObject<Root>(response.Content);
-                return (IEnumerable<Root>)deserializedBookingReq;
+                var deserializedBookingReq = JsonConvert.DeserializeObject<dynamic>(response.Content);
+                return (IEnumerable<dynamic>)deserializedBookingReq;
             }
 
             catch (Exception ex)
