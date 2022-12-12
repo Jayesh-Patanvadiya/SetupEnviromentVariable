@@ -22,6 +22,6 @@ namespace EnvironmentVariables
     //}
     //public class RootList
     //{
-    //    public List<Dictionary<string, object>> Data { get; set; }
+    //    public List<Root> Root { get; set; }
     //}
 }
