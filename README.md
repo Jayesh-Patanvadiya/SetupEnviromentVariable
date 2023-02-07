@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <style>
-            h1 {
+```{css, echo=FALSE}
+ h1 {
                 color:Green;
             }
             div.scroll {
@@ -15,7 +12,12 @@
                 overflow-y: auto;
                 text-align:justify;
             }
-        </style>
+```
+
+<!DOCTYPE html>
+<html>
+    <head>
+        
     </head>
     <body>
         <center>
