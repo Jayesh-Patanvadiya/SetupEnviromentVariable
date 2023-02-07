@@ -3,7 +3,6 @@
 </summary>
 
 
-<strong>Response Json Body</strong>
 
 ```{questions}
 [    
