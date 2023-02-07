@@ -1,40 +1,6 @@
 <details> 
   <summary><strong>Response Json Body</strong>
 </summary>
-# LocationPublicApi
-Sections
-
-[1.Base API Url](https://github.com/locationbank/LocationPublicApi/blob/main/README.md#1base-api-url)
-
-[2.List of All Locations](https://github.com/locationbank/LocationPublicApi/blob/main/README.md#2list-of-all-locations)
-
-[3.Create location](https://github.com/locationbank/LocationPublicApi/blob/main/README.md#3create-locations)
-
-[4.Get Single Location](https://github.com/locationbank/LocationPublicApi/blob/main/README.md#4get-single-location)
-
-[5.Update location](https://github.com/locationbank/LocationPublicApi/blob/main/README.md#5update-location)
-
-
-
-<h1>1.Base API Url</h1>
-
-All endpoints described in this document with the exception of Reporting have the following base API url: https://api.places.digital/locations-api-write/
-
-<h1>2.List of All Locations</h1>
-
-Http Verb: GET.
-
-Headers: Content-Type: application/json
-
-         Ocp-Apim-Subscription-Key : (Format - string. Passed into header for Authorization)
-
-Http EndPoint: /locations
-
-<strong>QueryString Parameters:</strong>
-
-```{questions}
-- AccountID: (Format - uuid. The unique identifier for the Account)
-```
 
 
 <strong>Response Json Body</strong>
