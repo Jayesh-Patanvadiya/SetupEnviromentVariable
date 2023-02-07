@@ -43,5 +43,44 @@ option is present, i.e., it will not override the
 side of the text output via the `.numberLines` attribute:
 
 ```{r, max.height='100px', attr.output='.numberLines'}
-1:100
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+1:2 3 3  4 4 4 5 45 45 454 5 4 5 45 4 54 5 4 54 5 45 45 4 8 78 75 1 21 5 4 81 2 15 ssgdh wtrjwr htiegbg wwehrwhbuihs werjkwbriewbfkj wrjwebribewnf
+
 ```
